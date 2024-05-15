@@ -102,8 +102,8 @@ Material:
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
     - _FPS: 16
-    - _MaskSpeed: 1
-    - _NormalStrength: 0.25
+    - _MaskSpeed: 0.75
+    - _NormalStrength: 1
     - _OpaqueCullMode: 2
     - _PuddleSpeed: 1
     - _PuddleStrength: 0.5
@@ -114,8 +114,8 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _RippleStrength: 1
-    - _RippleTile: 4
+    - _RippleStrength: 0.75
+    - _RippleTile: 8
     - _Smoothness: 0.25
     - _Speed: 32
     - _SrcBlend: 1
@@ -147,6 +147,7 @@ Material:
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TilingVec2: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling_Offset: {r: 0.4, g: 0.8, b: 0, a: 0}
     - _Tint: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
