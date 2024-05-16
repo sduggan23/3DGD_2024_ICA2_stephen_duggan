@@ -114,8 +114,8 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _RippleStrength: 0.75
-    - _RippleTile: 8
+    - _RippleStrength: 0.35
+    - _RippleTile: 16
     - _Smoothness: 0.25
     - _Speed: 32
     - _SrcBlend: 1
@@ -149,5 +149,5 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _TilingVec2: {r: 1, g: 1, b: 0, a: 0}
     - _Tiling_Offset: {r: 3, g: 0.6, b: 0, a: 0}
-    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _Tint: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
