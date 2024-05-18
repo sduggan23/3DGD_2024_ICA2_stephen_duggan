@@ -113,7 +113,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   volumeAnchorOverride: {fileID: 0}
-  antialiasing: 2
+  antialiasing: 3
   SMAAQuality: 2
   dithering: 1
   stopNaNs: 0
@@ -121,7 +121,7 @@ MonoBehaviour:
   TAAQuality: 2
   taaHistorySharpening: 0.1
   taaAntiFlicker: 0.7
-  taaMotionVectorRejection: 0
+  taaMotionVectorRejection: 1
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
   taaJitterScale: 1
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4eb578550bc4f824e97f0a72eac1f3a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSensitivity: 100
+  mouseSensitivity: 50
   playerBody: {fileID: 738646681744756156}
 --- !u!1 &738646681744756154
 GameObject:
