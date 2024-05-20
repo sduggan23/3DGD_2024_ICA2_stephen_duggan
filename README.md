@@ -17,6 +17,8 @@ Cyberpunk station - Daniel.Orlando.Tapia, https://sketchfab.com/3d-models/cyberp
 
 Cyberpunk Torii Gate - Julio C., https://sketchfab.com/3d-models/cyberpunk-torii-gate-e566e56d4bf0450eba2e20d6a2a9fd3b, Accessed On: 05/2024
 
+Police Vehicle - Cristianolop, https://sketchfab.com/3d-models/police-vehicle-f9a43f763cd84f6498749da43a235d56, Accessed On: 05/2024
+
 Audio:
 
 Comply Or Die by Jaxius, https://www.jaxiusmusic.com/file-share/da6fe67d-7245-4e0e-9079-5c4cfab2e04f, Accessed On: 05/2024
