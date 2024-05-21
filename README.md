@@ -23,6 +23,8 @@ Audio:
 
 Comply Or Die by Jaxius, https://www.jaxiusmusic.com/file-share/da6fe67d-7245-4e0e-9079-5c4cfab2e04f, Accessed On: 05/2024
 
+rain_near_smooth by loopbasedmusic, https://freesound.org/people/loopbasedmusic/sounds/157487/, Accessed On: 05/2024
+
 ## Software Used
 
 - Unity
